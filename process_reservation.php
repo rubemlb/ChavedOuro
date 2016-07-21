@@ -33,7 +33,7 @@ if (!$errors && !$missing) {
 
     // set up replacements for decorator plugins
     $replacements = [
-        'rubem.barros@primeconsulting.org'  =>
+        'madalena.barreto@prime.cv'  =>
             ['#subject#' => "Pedido de Reserva Pensão Chave d'Ouro"]
    ];
 

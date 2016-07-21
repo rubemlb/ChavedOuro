@@ -35,7 +35,7 @@ if (!$errors && !$missing) {
 
     // set up replacements for decorator plugin
     $replacements = [
-        'rubem.barros@primeconsulting.org'  =>
+        'madalena.barreto@prime.cv'  =>
             ['#subject#' => "Pensão Chave d'Ouro"]
    ];
 
